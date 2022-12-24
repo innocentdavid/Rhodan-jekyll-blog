@@ -1,0 +1,85 @@
+---
+Linux:
+  label: Linux
+  description: This tool can run on or is intended for Linux.
+
+Windows:
+  label: Windows
+  description: This tool can run on or is intended for Windows.
+
+Cross-Platform:
+  label: Cross-Platform
+  description: Tool can run on multiple OS. 
+
+Python:
+  label: Python
+  description: Tool is written in Python.
+
+Ruby:
+  label: Ruby
+  description: Tool is written in Ruby.
+
+Rust:
+  label: Rust
+  description: Tool is written in Rust.
+
+Nim:
+  label: Nim
+  description: Tool is written in Nim.
+
+GoLang:
+  label: Go
+  description: Tool is written in Go Lang.
+
+C#:
+  label: C#
+  description: Tool is written in C#.
+
+C++:
+  label: C++
+  description: Tool is written in C++.
+
+C:
+  label: C
+  description: Tool is written in C.
+
+
+Java:
+  label: Java
+  description: Tool is written in Java.
+
+Lua:
+  label: Lua
+  description: Tool is written in Lua.
+
+Bash:
+  label: Bash
+  description: Tool is written in Bash.
+
+PowerShell:
+  label: PowerShell
+  description: Tool is written in PowerShell.
+
+Solidity:
+  label: Solidity
+  description: Tool is written in Solidity.
+
+JavaScript:
+  label: JavaScript
+  description: Tool is written in JavaScript.
+
+PHP:
+  label: PHP
+  description: Tool is written in PHP.
+
+TypeScript:
+  label: TypeScript
+  description: Tool is written in TypeScript.
+
+Pascal:
+  label: Pascal
+  description: Tool is written in Pascal.
+
+VBScript:
+  label: VBScript
+  description: Tool is written in VBScript.

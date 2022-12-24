@@ -1,0 +1,72 @@
+---
+ActiveDirectory:
+  label: Active Directory
+  description: Pentesting suite for Active Directory. 
+
+Cloud:
+  label: Cloud
+  description: Cloud Pentesting suite - AWS, Azure, GCP...
+
+Wireless:
+  label: Wireless
+  description: Pentesting suite for wireless networks.
+
+Microservices:
+  label: Microservices
+  description: Pentesting suite for Microservice architecture. 
+
+Kubernetes:
+  label: Kubernetes
+  description: Pentesting suite for Kubernetes deployment.
+  
+Docker:
+  label: Docker
+  description: Pentesting suite for Docker container runtime.
+  
+WebAPIs:
+  label: Web APIs
+  description: Pentesting suite for Web APIs.
+
+WebApps:
+  label: Web Applications
+  description: Pentesting suite for web applications.
+
+HostSys:
+  label: Systems
+  description: Pentesting suite for Hosts, Client, Server and OS Systems...
+
+Networks:
+  label: Networks
+  description: Pentesting suite for Networks. 
+
+Blockchain:
+  label: Blockchain
+  description: Pentesting suite for Blockchains.
+
+Android:
+  label: Android
+  description: Pentesting suite for Android.
+
+iOS:
+  label: iOS
+  description: Pentesting suite for iOS.
+
+SCADA:
+  label: SCADA
+  description: Pentesting suite for SCADA.
+
+Smart:
+  label: Smart Contract Security
+  description: Pentesting suite for Smart Contracts.
+
+Hardware:
+  label: Hardware
+  description: Pentesting suite for Hardware.
+
+IoT:
+  label: IoT
+  description: Pentesting suite for IoT devices.
+
+APT:
+  label: APT Level [1337]
+  description: 1337 composition of complex attack chains.

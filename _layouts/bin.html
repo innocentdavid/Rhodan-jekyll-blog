@@ -1,0 +1,25 @@
+---
+layout: common
+---
+{% capture bin_name %}{% include get_bin_name path=page.path %}{% endcapture %}
+
+
+{% include page_title.html title=bin_name %}
+
+{% include filter_list.html bin=page %}
+
+
+{{ page.description | markdownify }}
+{{ page.links | markdownify }}
+
+<H2 align="center"; style="color:#F6A21C;">-------------------- ~/.R3s0urc3s --------------------</H2>
+{{ page.tryhackme | markdownify}}
+{{ page.hackthebox | markdownify}}
+{{ page.videos | markdownify}}
+{{ page.similar | markdownify}}
+{{ page.useful | markdownify}}
+{{ page.image | markdownify}}
+
+
+<font color="#D4EF22"> Thanks for spending your time and giving it a read. </font>
+

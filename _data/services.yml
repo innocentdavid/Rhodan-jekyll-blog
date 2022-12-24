@@ -1,0 +1,60 @@
+---
+Offensive:
+  label: Offensive
+  description: Tools of trade - Offensive security
+
+Defensive:
+  label: Defensive
+  description: Tools of trade - Defensive security.
+
+Blog:
+  label: Blogs
+  description: Blogs and articles depicting latest attack techniques, detection, protection, prevention etc...
+
+RedTeam:
+  label: Red Teaming
+  description: Tools geared towards Red Teaming suite.
+
+BlueTeam:
+  label: Blue Teaming
+  description: Tools geared towards Blue Teaming suite.
+
+General:
+  label: General
+  description: General utility tools which enhance our productivity.
+
+PurpleTeam:
+  label: Purple Teaming
+  description: Tools geared towards Purple Teaming suite.
+
+Vulnlabs:
+  label: Vu1n3rabl3 Labs
+  description: Tools geared towards setting up vulnerable labs.
+
+POCS:
+  label: Exploit POC
+  description: Tools geared towards demonstrating an exploit POC.
+
+CVE:
+  label: CVEs
+  description: Tools geared towards latest CVEs.
+
+Tips:
+  label: Tips
+  description: Resources geared towards tips for red & blue team, threat hunting tips etc...
+
+Free:
+  label: Free
+  description: Tools that are free of cost.
+
+Paid:
+  label: Paid
+  description: Tools that are paid for only.
+
+OpenSource:
+  label: Open Source
+  description: Tools that are Open Source.
+
+Freemium:
+  label: Freemium
+  description: Tools that are free for basic features, but additional features require payment.

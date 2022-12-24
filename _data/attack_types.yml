@@ -1,0 +1,97 @@
+---
+Enumeration:
+  label: Enumeration
+  description: Tool focuses on enumeration.
+
+Exploitation:
+  label: Exploitation
+  description: Tool focuses on exploitation.
+
+Persistence:
+  label: Persistence
+  description: Tool focuses on persistence.
+
+Impact:
+  label: Impact Delivery
+  description: Tool focuses on demonstrating Impact of compromise.
+
+PrivEsc:
+  label: Privilege Escalation
+  description: Tool focuses on privilege escalation.
+
+AVEvasion:
+  label: Anti-Virus Evasion
+  description: Tool focuses on Defense Evasion utility.
+
+DataExfil:
+  label: Data Exfiltration
+  description: Tool focuses on Data exfiltration.
+
+CredentialAccess:
+  label: Credential Access
+  description: Tool focuses on Credential Access.
+
+Pivoting:
+  label: Pivoting
+  description: Tool focuses on Pivoting.
+
+OSINT:
+  label: OSINT Ops
+  description: OSINT Operations utility tools.
+
+C2C:
+  label: Command & Control
+  description: Tool focuses on C2 utility (frameworks).
+
+
+
+RevEng:
+  label: Reverse Engineering
+  description: Reverse Engineering suite.
+
+MalAnal:
+  label: Malware Analysis
+  description: Malware Analysis suite.
+
+Cryptography:
+  label: Cryptography
+  description: Cryptography suite.
+
+
+
+DigForensics:
+  label: Digital Forensics
+  description: Digital Forensics suite - Host, network, etc...
+
+ExpDev:
+  label: Exploit Development
+  description: Exploit Development suite.
+
+MalDev:
+  label: Malware Development
+  description: Malware Development suite.
+
+Phishing:
+  label: Phishing
+  description: Tool focuses on Phishing utility.
+
+Social:
+  label: Social Engineering
+  description: Tool focuses on Social Engineering utility.
+
+ThreatHunt:
+  label: Threat Hunting
+  description: Threat Hunting suite.
+
+Incident:
+  label: Incident Response
+  description: Incident Response suite.
+
+Deception:
+  label: Cyber Deception
+  description: Cyber Deception suite.
+
+Hardening:
+  label: System Hardening
+  description: System Hardening suite.
+
